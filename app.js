@@ -6,7 +6,8 @@ const app = Vue.createApp({
       lastName: "De la Vega",
       email: "zorro@test.com",
       gender: "male",
-      picture: "https://randomuser.me/api/portraits/men/10.jpg",
+      picture:
+        "https://static.wikia.nocookie.net/disney/images/a/ae/Zorro_Guy_Williams.jpg",
     };
   },
   methods: {
